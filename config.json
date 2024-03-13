@@ -1,0 +1,34 @@
+{
+    "data":{
+        "title":{
+            "titleName": "AkakitoMedia",
+            "logoName": "AkakitoMedia"
+        },
+        "nawBarMenus":{
+            "menu_1":{
+                "content": "Asosiy",
+                "url": "Home",
+                "title": "Asosiy"
+            },
+            "menu_2":{
+                "content": "Yangiliklar",
+                "url": "News",
+                "title": "Yangiliklar"
+            },
+            "menu_3":{
+                "content": "Janrlar",
+                "url": "Genres",
+                "title": "Janrlar"
+            }
+        }
+    },
+    "config":{
+        "contact_number": "+998 (93) 256 09 17",
+        "contact_email": "saidjamol8shamshiyev@gmail.com",
+        "contact_telegarm": "@AKAKITOUZ",
+        "contact_youtube": "ANIWATCHUZ",
+        "contact_instagram": "ANIWATCHUZ",
+        "current_year": " ",
+        "document_version": "1.7.3"
+    }
+}
